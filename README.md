@@ -40,6 +40,19 @@ A synthetic finance-controls and automation case study for classifying held bill
 - management reporting; and
 - transparent capacity and ROI modelling.
 
+### [ARR Cleanse & Customer Segmentation Engine](https://github.com/Abhidubey310/arr-cleanse-customer-segmentation-engine)
+
+A synthetic recurring-revenue transformation solution that converts subscription-level data into an account-level cleanse and segmentation plan using explainable business rules.
+
+**Demonstrates:**
+- subscription-to-account ARR aggregation;
+- contract-complexity analysis;
+- legacy-product and non-standard-terms detection;
+- low-value-account indicators;
+- explainable customer routing;
+- portfolio reconciliation and route-level reporting; and
+- controls, governance and human approval design.
+
 ### [Contract Renewal Alignment Engine](https://github.com/Abhidubey310/contract-renewal-alignment-engine)
 
 A synthetic finance and revenue transformation prototype that identifies fragmented customer contracts, renewal-date misalignment, contract complexity, and renewal-risk indicators.
@@ -51,20 +64,6 @@ A synthetic finance and revenue transformation prototype that identifies fragmen
 - automated portfolio analysis;
 - exception reporting; and
 - audit-friendly decision logic.
-
-### ARR Cleanse & Customer Segmentation Engine
-
-A rules-based transformation concept for cleansing and segmenting recurring-revenue customer estates using contract structure, product complexity, commercial rules, and action-routing logic.
-
-**Demonstrates:**
-- account and contract aggregation;
-- business-rule segmentation;
-- legacy-product and contract-complexity identification;
-- automated cohort creation;
-- reconciliation and quality controls; and
-- operational routing by required action.
-
-*A public portfolio version is planned using synthetic data and generic business scenarios.*
 
 ### AI Finance Exception Management
 
