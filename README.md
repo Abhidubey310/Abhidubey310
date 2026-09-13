@@ -40,6 +40,19 @@ A synthetic finance-controls and automation case study for classifying held bill
 - management reporting; and
 - transparent capacity and ROI modelling.
 
+### [AI Finance Exception Management](https://github.com/Abhidubey310/ai-finance-exception-management)
+
+A hybrid finance-automation case study showing how deterministic controls and AI assistance can work together across O2C, P2P, R2R, Intercompany and Treasury without weakening finance governance.
+
+**Demonstrates:**
+- multi-process exception classification and prioritisation;
+- reconciliation, approval, duplicate and documentation controls;
+- structured evidence packets for AI-assisted review;
+- explainable summaries and recommended investigation steps;
+- human-in-the-loop approval and escalation design;
+- AI governance, least-privilege and audit principles; and
+- enterprise implementation architecture.
+
 ### [ARR Cleanse & Customer Segmentation Engine](https://github.com/Abhidubey310/arr-cleanse-customer-segmentation-engine)
 
 A synthetic recurring-revenue transformation solution that converts subscription-level data into an account-level cleanse and segmentation plan using explainable business rules.
@@ -65,17 +78,6 @@ A synthetic finance and revenue transformation prototype that identifies fragmen
 - exception reporting; and
 - audit-friendly decision logic.
 
-### AI Finance Exception Management
-
-A portfolio concept exploring how AI can support finance operations by reviewing exceptions, summarising root causes, recommending next actions, and keeping human approval at key control points.
-
-**Focus areas:**
-- billing and reconciliation exceptions;
-- anomaly and risk identification;
-- explainable recommendations;
-- human-in-the-loop controls; and
-- management reporting.
-
 ## My transformation approach
 
 1. Understand the business problem and current process.
@@ -91,12 +93,12 @@ A portfolio concept exploring how AI can support finance operations by reviewing
 I am building a portfolio of independently recreated solutions for common finance transformation challenges, including:
 
 - Billing and Revenue Hold Management
+- AI-enabled Finance Exception Management
 - Revenue Reconciliation and Exception Management
 - ARR / Contract Cleanse and Segmentation
 - Renewal Forecasting and Risk Analytics
 - Cash Collection Forecasting
 - Finance Close Automation
-- AI-enabled Finance Operations
 - Executive KPI and Transformation Reporting
 
 ## Portfolio integrity
