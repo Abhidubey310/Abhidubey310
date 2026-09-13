@@ -1,68 +1,110 @@
 # Hi, I'm Abhishek Dubey
 
-## Finance Transformation | Renewals | Revenue Operations | Business Automation
+## Finance Transformation | AI & Automation | Enterprise SaaS Implementation | Process Improvement
 
-I am a finance transformation and renewals professional with 9+ years of experience across SaaS renewals, revenue operations, finance operations, intercompany accounting, process improvement, and automation-led transformation.
+I am a finance transformation professional with 9+ years of experience across finance operations, revenue operations, enterprise SaaS implementation, process redesign, controls, and automation-led transformation.
 
-My work focuses on converting complex business problems into structured, scalable solutions that improve customer experience, operational control, reporting quality, and decision-making.
+My focus is on turning complex finance and operational problems into practical, scalable solutions that improve efficiency, control, data quality, customer outcomes, and management decision-making.
 
-## Areas of expertise
+## What I work on
 
-- Finance and revenue operations transformation
-- SaaS renewals and customer retention
-- Contract consolidation and renewal alignment
-- Billing process improvement and revenue assurance
-- Record-to-Report and intercompany processes
-- Process discovery, gap analysis, and future-state design
-- Business-rule automation and exception management
-- Management reporting and executive dashboards
-- Stakeholder alignment across Finance, Sales, Legal, Product, Pricing, and Operations
+- Finance transformation and operating-model improvement
+- AI-enabled finance automation and exception management
+- Order-to-Cash, billing, renewals, revenue assurance, and collections
+- Record-to-Report and intercompany process improvement
+- Enterprise SaaS implementation and solution delivery
+- AS-IS discovery, gap analysis, and TO-BE process design
+- Business-rule automation, reconciliation, and control design
+- Data quality, exception handling, and audit-ready workflows
+- UAT, stakeholder workshops, governance, and change adoption
+- Executive reporting, KPI design, and transformation ROI
 
-## Tools and platforms
+## Platforms and tools
 
-- **Automation and analytics:** Python, pandas, Excel VBA, Power Query
-- **Business systems:** Salesforce, NetSuite, ServiceNow, HighRadius
-- **Delivery:** Process mapping, requirements definition, solution design, UAT, governance, and change adoption
+- **Finance / business systems:** HighRadius, Salesforce, NetSuite, ServiceNow
+- **Automation / analytics:** Python, pandas, Excel VBA, Power Query
+- **AI-enabled delivery:** LLM-assisted workflow design, classification, exception analysis, and process automation
+- **Implementation:** Requirements, solution design, data mapping, UAT, testing, workshops, go-live support, and handover
 
-## Featured portfolio project
+## Selected transformation projects
 
 ### [Contract Renewal Alignment Engine](https://github.com/Abhidubey310/contract-renewal-alignment-engine)
 
-A synthetic business-solution prototype that identifies fragmented customer contracts, renewal-date misalignment, contract complexity, and renewal-risk indicators.
+A synthetic finance and revenue transformation prototype that identifies fragmented customer contracts, renewal-date misalignment, contract complexity, and renewal-risk indicators.
 
-The project demonstrates:
-
+**Demonstrates:**
 - customer-level contract aggregation;
-- renewal and churn-risk assessment;
-- explainable recommendation logic;
+- renewal alignment and consolidation logic;
+- explainable business-rule recommendations;
 - automated portfolio analysis;
-- dashboard reporting; and
-- audit-friendly business rules.
+- exception reporting; and
+- audit-friendly decision logic.
+
+### Billing & Revenue Hold Management Platform
+
+A finance controls and automation solution designed around a common enterprise problem: large volumes of orders or invoices placed on hold with limited visibility, inconsistent ownership, and manual review effort.
+
+**Solution concept:**
+- automated data intake and classification;
+- hold-reason analysis and exception routing;
+- control checks and review workflow;
+- management dashboard and audit history; and
+- capacity and efficiency measurement.
+
+*A public portfolio version is being independently recreated using synthetic data.*
+
+### ARR Cleanse & Customer Segmentation Engine
+
+A rules-based transformation concept for cleansing and segmenting recurring-revenue customer estates using contract structure, product complexity, commercial rules, and action-routing logic.
+
+**Demonstrates:**
+- account and contract aggregation;
+- business-rule segmentation;
+- legacy-product and contract-complexity identification;
+- automated cohort creation;
+- reconciliation and quality controls; and
+- operational routing by required action.
+
+*A public portfolio version is planned using synthetic data and generic business scenarios.*
+
+### AI Finance Exception Management
+
+A portfolio concept exploring how AI can support finance operations by reviewing exceptions, summarising root causes, recommending next actions, and keeping human approval at key control points.
+
+**Focus areas:**
+- billing and reconciliation exceptions;
+- anomaly and risk identification;
+- explainable recommendations;
+- human-in-the-loop controls; and
+- management reporting.
+
+## My transformation approach
+
+1. Understand the business problem and current process.
+2. Identify root causes, control gaps, manual effort, and data issues.
+3. Design the future-state process and decision logic.
+4. Build automation, controls, and exception workflows.
+5. Test through UAT and stakeholder validation.
+6. Measure efficiency, capacity released, financial impact, and adoption.
+7. Transition the solution into a scalable operating model.
 
 ## Portfolio roadmap
 
-I am building a portfolio of independently recreated solutions for common industry challenges, including:
+I am building a portfolio of independently recreated solutions for common finance transformation challenges, including:
 
-- Order Hold Management and Release Automation
+- Billing and Revenue Hold Management
 - Revenue Reconciliation and Exception Management
-- Billing Quality Assurance
-- Renewal Forecasting and Churn Analytics
+- ARR / Contract Cleanse and Segmentation
+- Renewal Forecasting and Risk Analytics
 - Cash Collection Forecasting
 - Finance Close Automation
+- AI-enabled Finance Operations
 - Executive KPI and Transformation Reporting
-
-## How I approach transformation
-
-1. Understand the current process and stakeholder pain points.
-2. Identify root causes, control gaps, and automation opportunities.
-3. Design a practical future-state process.
-4. Build clear, auditable business rules and reporting.
-5. Measure customer, financial, and operational outcomes.
 
 ## Portfolio integrity
 
-The projects published here are inspired by real-world business experience but are independently recreated using synthetic data and generic business scenarios. They contain no confidential, proprietary, customer, employee, or personally identifiable information.
+The projects published here are inspired by real-world business problems and transformation experience but are independently recreated using synthetic data and generic scenarios. They contain no confidential employer information, proprietary source code, customer data, credentials, or personally identifiable information.
 
 ## Professional focus
 
-I am particularly interested in roles and projects involving finance transformation, renewals, revenue operations, solution consulting, intelligent automation, and business process design.
+I am particularly interested in roles and projects involving **Finance Transformation, AI & Automation, Enterprise SaaS Implementation, Intelligent Finance Operations, Process Improvement, and Solution Consulting**.
