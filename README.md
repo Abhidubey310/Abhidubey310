@@ -28,6 +28,18 @@ My focus is on turning complex finance and operational problems into practical, 
 
 ## Selected transformation projects
 
+### [Billing & Revenue Hold Management Platform](https://github.com/Abhidubey310/billing-and-revenue-hold-management-platform)
+
+A synthetic finance-controls and automation case study for classifying held billing cases, quantifying financial exposure, assigning ownership, prioritising ageing, recommending actions, and modelling capacity/ROI.
+
+**Demonstrates:**
+- billing-hold classification and exception routing;
+- ageing and value-based prioritisation;
+- control checks and human-in-the-loop review;
+- auditable recommendation logic;
+- management reporting; and
+- transparent capacity and ROI modelling.
+
 ### [Contract Renewal Alignment Engine](https://github.com/Abhidubey310/contract-renewal-alignment-engine)
 
 A synthetic finance and revenue transformation prototype that identifies fragmented customer contracts, renewal-date misalignment, contract complexity, and renewal-risk indicators.
@@ -39,19 +51,6 @@ A synthetic finance and revenue transformation prototype that identifies fragmen
 - automated portfolio analysis;
 - exception reporting; and
 - audit-friendly decision logic.
-
-### Billing & Revenue Hold Management Platform
-
-A finance controls and automation solution designed around a common enterprise problem: large volumes of orders or invoices placed on hold with limited visibility, inconsistent ownership, and manual review effort.
-
-**Solution concept:**
-- automated data intake and classification;
-- hold-reason analysis and exception routing;
-- control checks and review workflow;
-- management dashboard and audit history; and
-- capacity and efficiency measurement.
-
-*A public portfolio version is being independently recreated using synthetic data.*
 
 ### ARR Cleanse & Customer Segmentation Engine
 
